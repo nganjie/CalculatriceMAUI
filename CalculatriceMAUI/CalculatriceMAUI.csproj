@@ -28,7 +28,7 @@
 		<MauiXamlInflator>SourceGen</MauiXamlInflator>
 
 		<!-- Display name -->
-		<ApplicationTitle>CalculatriceMAUI</ApplicationTitle>
+		<ApplicationTitle>Calculatrice</ApplicationTitle>
 
 		<!-- App Identifier -->
 		<ApplicationId>com.companyname.calculatricemaui</ApplicationId>
